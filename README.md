@@ -58,5 +58,4 @@ Use `supabase_admin_setup.sql` to create the moderation-related tables and polic
 - The local `gradle-8.7` folder and `gradle-8.7-bin.zip` are ignored for GitHub cleanup.
 - If you want a standard Gradle wrapper in the repo, generate it locally in Android Studio or with a working Gradle install.
 =======
-# Namma-Vastra
->>>>>>> e21d9a47f4e0e0ca5cd17e6b9b975cced699832d
+
