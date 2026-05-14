@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Namma-Vastra
 
 Namma-Vastra is an Android app for artisan discovery, saree listing, inquiry management, and moderated weaver storytelling. It is built with Kotlin, Jetpack Compose, Firebase Authentication, and Supabase.
@@ -56,3 +57,6 @@ Use `supabase_admin_setup.sql` to create the moderation-related tables and polic
 - `local.properties` is intentionally ignored and should not be committed.
 - The local `gradle-8.7` folder and `gradle-8.7-bin.zip` are ignored for GitHub cleanup.
 - If you want a standard Gradle wrapper in the repo, generate it locally in Android Studio or with a working Gradle install.
+=======
+# Namma-Vastra
+>>>>>>> e21d9a47f4e0e0ca5cd17e6b9b975cced699832d
