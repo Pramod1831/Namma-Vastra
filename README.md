@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Namma-Vastra
 
 Namma-Vastra is an Android app for artisan discovery, saree listing, inquiry management, and moderated weaver storytelling. It is built with Kotlin, Jetpack Compose, Firebase Authentication, and Supabase.
