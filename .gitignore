@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/build/
+/captures/
+.DS_Store
+/app/build/
+/gradle-8.7/
+/gradle-8.7-bin.zip
+/.env
+/.env.*
+!/local.properties.example
